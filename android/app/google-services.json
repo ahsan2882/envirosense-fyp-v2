@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040546628190",
+    "project_id": "envirosense-fyp-v2",
+    "storage_bucket": "envirosense-fyp-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040546628190:android:c7fdcb618313b4b0976acf",
+        "android_client_info": {
+          "package_name": "com.example.envirosense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040546628190-c01r60dle7imigurnc993vfa373fiolt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytywHvqYbtsimIwzTSOVVoY9rlBGn8CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040546628190-c01r60dle7imigurnc993vfa373fiolt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
